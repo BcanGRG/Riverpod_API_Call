@@ -1,16 +1,33 @@
-# riverpod_practise
 
-A new Flutter project.
+# Riverpod API Call Example 
 
-## Getting Started
+Riverpod ile API dan veri çekip ekranda listeleme yaptığım uygulama
+## Tech Stack
 
-This project is a starting point for a Flutter application.
+**Client:** Flutter/Dart
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+## API Reference
+
+```http
+  GET  https://reqres.in/api/users?page=2
+```
+
+
+## Demo
+
+![](https://github.com/BcanGRG/Riverpod_API_Call/blob/main/assets/riverpod_api.gif)
+
+## Authors
+
+- [@BurakCanGörgülü](https://github.com/BcanGRG)
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at burockcan2309@gmail.com
+
